@@ -18,6 +18,7 @@ Find the best route, starting from the capital and returning to it at the end wi
   
 - It is an approach based on the concept that ants can find the shortest path between their colonies and a food source through indirect communication measured by pheromones.
 
+![MAP ANT COLOLY](mapa.png)
 
 **Algorithm 2-OPT**
 
