@@ -23,3 +23,5 @@ Find the best route, starting from the capital and returning to it at the end wi
 **Algorithm 2-OPT**
 
 - Reduces the total distance traveled bvy a traveling salesman by eliminating unnecessary crossing in a path, resulting in a shorter and more efficient route.
+
+![MAP ALGORITHM](mapa2.png)
