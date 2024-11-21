@@ -1,4 +1,4 @@
-# Travel-Salesman-Problem (TSP)
+# Traveling-Salesman-Problem (TSP)
 Given a set of cities and the distances between each pair of cities, the goal is to find the shortest route that allows the traveling salesman to visit each city exactly once and return to the starting city.
 
 # Intro
